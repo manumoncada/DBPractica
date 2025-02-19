@@ -10,6 +10,13 @@ public class Main {
         System.out.println("hola mundo");
         System.out.println("mi mama me mima");
         System.out.println("ami a mi gata");
+        System.out.println("ami a mi gata");
+        System.out.println("ami a mi gata");
+        System.out.println("ami a mi gata");
+        System.out.println("ami a mi gata");
+        System.out.println("ami a mi gata");
+
+
 
 
     }
