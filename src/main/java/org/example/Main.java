@@ -12,7 +12,7 @@ public class Main {
         System.out.println("ami a mi gata");
         System.out.println("suma");
 
-
+        System.out.println("amor");
 
     }
 }
